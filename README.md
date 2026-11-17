@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bonjour monde!
+## What I'm working on :
+  - Homelab
+  - Networking
 
-<!--
-**AlexTheChap/AlexTheChap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ What I use
 
-Here are some ideas to get you started:
+![Languages & tools](https://skillicons.dev/icons?i=cs,cpp,java,py,js,react,docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☀️ Daily drivers
+
+![Daily](https://skillicons.dev/icons?i=obsidian,linux,debian,spotify)
+
+## 🌱 Want to know more about
+
+![Learning](https://skillicons.dev/icons?i=nix,rust,neovim)
